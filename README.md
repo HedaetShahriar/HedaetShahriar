@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-url-here.jpg" alt="Hedaet Shahriar Banner" width="100%" />
+  <img src="./assets/linkdn cover.png" alt="Hedaet Shahriar Banner" width="100%" />
 </p>
 
 # Hedaet Shahriar  
