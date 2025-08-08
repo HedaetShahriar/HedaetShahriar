@@ -3,14 +3,14 @@
   <img src="./assets/linkdn cover.png" alt="Hedaet Shahriar Banner" width="100%" />
 </p>
 
-# Hedaet Shahriar  
+# Md. Hedaet Shahriar Himon  
 ### Full Stack Developer | Computer Science Student
 
 ---
 
 ## 👋 About Me
 
-Hi! I'm **Hedaet Shahriar**, a passionate **Full Stack Developer** and **Computer Science** student at **American International University-Bangladesh (AIUB)**.  
+Hi! I'm **Md. Hedaet Shahriar Himon**, a passionate **Full Stack Developer** and **Computer Science** student at **American International University-Bangladesh (AIUB)**.  
 I enjoy building scalable web applications and solving real-world problems through code.  
 Currently, I’m focusing on **modern JavaScript frameworks** and **cloud technologies** while contributing to open-source projects.
 
@@ -58,8 +58,8 @@ Currently, I’m focusing on **modern JavaScript frameworks** and **cloud techno
 
 <p align="center">
   <a href="https://github.com/HedaetShahriar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/hedaet-shahriar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:hedaetshahriar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hedaet-shahriar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shahriahedaet@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/hedaetshahriar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
