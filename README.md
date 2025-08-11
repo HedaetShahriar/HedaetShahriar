@@ -4,7 +4,7 @@
 </p>
 
 # Md. Hedaet Shahriar Himon  
-### Full Stack Developer | Computer Science Student
+### Mern Stack Developer | Computer Science Student
 
 ---
 
