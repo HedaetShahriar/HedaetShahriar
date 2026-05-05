@@ -217,7 +217,7 @@ const hedaet = {
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://your-portfolio-link.com">
+  <a href="https://hedaetshahriarhimon.vercel.app/">
     <img src="https://img.shields.io/badge/View%20Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
 </p>
