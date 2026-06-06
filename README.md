@@ -3,7 +3,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=Building+production-grade+web+apps+%F0%9F%9A%80;Specialized+in+React+%2F+Next.js+%2F+Node.js;Type-safe+APIs+with+TypeScript+%2B+Prisma;Open+to+full-time+%26+freelance+roles+%F0%9F%9F%A2" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=Building+production-grade+web+apps;Specialized+in+React+%2F+Next.js+%2F+Node.js;Type-safe+APIs+with+TypeScript+%2B+Prisma;Open+to+full-time+%26+freelance+roles" alt="Typing SVG"/>
 </p>
 
 <!-- PROFILE VIEWS + SOCIALS -->
@@ -17,8 +17,10 @@
 
 <br/>
 
+---
+
 <!-- ABOUT ME -->
-## ⚡ About Me
+## About Me
 
 ```typescript
 const hedaet = {
@@ -37,7 +39,7 @@ const hedaet = {
 ---
 
 <!-- CURRENTLY LEARNING -->
-## 🌱 Currently Learning
+## Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -54,20 +56,20 @@ const hedaet = {
 ---
 
 <!-- TECH STACK -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table align="center">
 <tr>
   <td align="center" width="50%">
 
-**🎨 Frontend**
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,framer,html,css&theme=dark&perline=4"/>
 
   </td>
   <td align="center" width="50%">
 
-**⚙️ Backend & Data**
+**Backend & Data**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,mysql,firebase,supabase&theme=dark&perline=4"/>
 
@@ -76,14 +78,14 @@ const hedaet = {
 <tr>
   <td align="center" width="50%">
 
-**🔧 Tools & Platforms**
+**Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,figma,vscode,linux&theme=dark&perline=4"/>
 
   </td>
   <td align="center" width="50%">
 
-**📦 State & Workflow**
+**State & Workflow**
 
 <img src="https://skillicons.dev/icons?i=githubactions,py,java,cpp&theme=dark&perline=4"/>
 <br/>
@@ -101,14 +103,14 @@ const hedaet = {
 ---
 
 <!-- EXPERIENCE -->
-## 💼 Work Experience
+## Work Experience
 
 <table align="center" width="100%">
   <tr>
-    <th>🏢 Company</th>
-    <th>💼 Role</th>
-    <th>📅 Duration</th>
-    <th>🌍 Type</th>
+    <th>Company</th>
+    <th>Role</th>
+    <th>Duration</th>
+    <th>Type</th>
   </tr>
   <tr>
     <td><b>eWynk — RemoveQ Technology Pvt. Ltd.</b></td>
@@ -119,24 +121,24 @@ const hedaet = {
 </table>
 
 **What I shipped:**
-- 🖥️ Architected a full **admin dashboard** in Next.js with complex nested routing + Google Analytics 4 & Microsoft Clarity integrations
-- 🔌 Engineered and optimized **RESTful APIs** end-to-end — schema design, feature delivery, and scalable backend performance
-- 📈 Delivered **CRO-optimized UI** components that improved conversion-critical user journeys across the product
+- Architected a full **admin dashboard** in Next.js with complex nested routing + Google Analytics 4 & Microsoft Clarity integrations
+- Engineered and optimized **RESTful APIs** end-to-end — schema design, feature delivery, and scalable backend performance
+- Delivered **CRO-optimized UI** components that improved conversion-critical user journeys across the product
 
 <br/>
 
 ---
 
 <!-- PROJECTS -->
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Stack | Links |
 |:---|:---|:---|:---:|
-| 🍽️ **Meal Planner** | Full-stack nutrition & meal planning system with role-based admin dashboards, per-serving nutrition recalculation, and end-to-end type safety | `Next.js` `TypeScript` `PostgreSQL` `Prisma` `NextAuth` `React Query` | [🌐 Live](https://your-live-link) · [📁 Repo](https://your-github-link) |
-| 💬 **PixelPost** | Full-stack forum with nested comments, voting, full-text search, Stripe premium membership, and JWT + Firebase auth | `React` `Node.js` `Express` `MongoDB` `Stripe` `Firebase` | [🌐 Live](https://your-live-link) · [📁 Client](https://your-github-link) · [⚙️ Server](https://your-github-link) |
-| 🎪 **Community Canvas** | Event discovery platform with advanced search, filtering, bookmarking, and real-time notifications — backed by a scalable REST API | `React` `Node.js` `Express` `MongoDB` `Framer Motion` `JWT` | [🌐 Live](https://your-live-link) · [📁 Client](https://your-github-link) · [⚙️ Server](https://your-github-link) |
+| **Meal Planner** | Full-stack nutrition & meal planning system with role-based admin dashboards, per-serving nutrition recalculation, and end-to-end type safety | `Next.js` `TypeScript` `PostgreSQL` `Prisma` `NextAuth` `React Query` | [Live](https://your-live-link) · [Repo](https://your-github-link) |
+| **PixelPost** | Full-stack forum with nested comments, voting, full-text search, Stripe premium membership, and JWT + Firebase auth | `React` `Node.js` `Express` `MongoDB` `Stripe` `Firebase` | [Live](https://your-live-link) · [Client](https://your-github-link) · [Server](https://your-github-link) |
+| **Community Canvas** | Event discovery platform with advanced search, filtering, bookmarking, and real-time notifications — backed by a scalable REST API | `React` `Node.js` `Express` `MongoDB` `Framer Motion` `JWT` | [Live](https://your-live-link) · [Client](https://your-github-link) · [Server](https://your-github-link) |
 
 </div>
 
@@ -145,7 +147,7 @@ const hedaet = {
 ---
 
 <!-- GITHUB STATS -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HedaetShahriar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=34d399&text_color=94a3b8" />
@@ -160,7 +162,7 @@ const hedaet = {
 ---
 
 <!-- TROPHIES -->
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HedaetShahriar&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
@@ -171,7 +173,7 @@ const hedaet = {
 ---
 
 <!-- ACTIVITY GRAPH -->
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HedaetShahriar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=34d399&point=f472b6&area=true&area_color=38bdf8" />
@@ -182,7 +184,7 @@ const hedaet = {
 ---
 
 <!-- SNAKE -->
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HedaetShahriar/HedaetShahriar/output/github-contribution-grid-snake-dark.svg" />
@@ -193,10 +195,10 @@ const hedaet = {
 ---
 
 <!-- ACHIEVEMENT -->
-## 🏅 Achievement
+## Achievement
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🥋_Black_Belt_Web_Developer-Programming_Hero_·_Batch_11-FFD700?style=for-the-badge&labelColor=1a1a2e&color=b8860b"/>
+  <img src="https://img.shields.io/badge/Black_Belt_Web_Developer-Programming_Hero_·_Batch_11-FFD700?style=for-the-badge&labelColor=1a1a2e&color=b8860b"/>
 </p>
 
 > Awarded to a **select group** for outstanding performance across 12+ assignments and a rigorous final technical interview — delivering a production-grade MERN application under strict deadlines.
@@ -206,26 +208,26 @@ const hedaet = {
 ---
 
 <!-- CONTACT -->
-## 📬 Get In Touch
+## Get In Touch
 
 <p align="center">
   <a href="mailto:shahriahedaet@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-shahriahedaet%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-shahriahedaet%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <br/><br/>
   <a href="https://www.linkedin.com/in/hedaet-shahriar/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://hedaetshahriarhimon.vercel.app/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <i>💡 I'm always open to interesting projects, collaborations, and full-time opportunities. Don't hesitate to reach out!</i>
+  <i>Open to full-time roles, collaborations, and interesting projects. Feel free to reach out.</i>
 </p>
 
 <br/>
